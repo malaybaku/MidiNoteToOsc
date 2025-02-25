@@ -4,7 +4,7 @@ MIDIのノート入力とサステインペダルの情報をOSC(Open Sound Cont
 
 - Windowsでのみ動作します。作成者はWindows 11で動作を確認しています。
 - [cluster](https://cluster.mu/)で音響信号をビジュアライズする目的で作成しています。
-  - 詳細はnote記事も参照下さい。(※noteの公開後、URLを更新します)
+  - 詳細はコチラのnote記事を参照下さい: https://note.com/baku_dreameater/n/nc73bbf1c2da2
 - とくに、Releasesページに含まれるunitypackageは上記のnote記事に関連したファイルです。
   - このunitypackageに対応するアセットはレポジトリには直接含めていません。
 
