@@ -10,9 +10,13 @@ MIDIのノート入力とサステインペダルの情報をOSC(Open Sound Cont
 
 ## インストール
 
-Releasesページで`MidiNoteToOsc_exe.zip`をダウンロードして解凍します。
+[MidiNoteToOsc_exe.zip](https://github.com/malaybaku/MidiNoteToOsc/releases/download/0.1/MidiNoteToOsc_exe.zip)
+
+または、Releasesページで`MidiNoteToOsc_exe.zip`を選択し、ダウンロードして解凍します。
 
 このとき、必要に応じて解凍前にzipファイルのプロパティウィンドウを開き、下部の「セキュリティ→許可する」をチェックして適用して下さい。この操作を行わないとexeファイルやdllファイルが正しく実行できない場合があります。
+
+※ Releasesページで同じく公開している[MidiVisualizer_cluster_example.unitypackage](https://github.com/malaybaku/MidiNoteToOsc/releases/download/0.1/MidiVisualizer_cluster_example.unitypackage)はコンソールアプリ本体ではなく、コンソールアプリと組み合わせて使う想定のclusterワールドのパッケージファイルです。
 
 ## 使い方
 
